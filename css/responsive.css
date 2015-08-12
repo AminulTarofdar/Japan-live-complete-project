@@ -13,7 +13,7 @@
         }
         .main_menu li a{
         font-size: 14px;
-        padding:13px 32px;
+        padding:13px 33px;
         overflow: hidden;
         }
         .header .search_field{
@@ -69,12 +69,12 @@
 
 
         .footer_logo {
-            padding: 19px 0px;
+            padding: 19px 0;
             margin: 0 36%;
         }
 
         .rank_nav li a {
-            margin: 0px;
+            margin: 0;
             padding: 16px 17px;
             font-size: 17px;
         }
@@ -82,7 +82,7 @@
             width: 73%;
             float: right;
             margin: 21px 0;
-            padding: 0px 0px 0px 10px;
+            padding: 0 0 0 10px;
             overflow: hidden;
             font-size: 21px;
         }
@@ -140,7 +140,7 @@
         }
 
         .footer_logo {
-            padding: 19px 0px;
+            padding: 19px 0;
             margin: 0 36%;
         }
 
@@ -208,7 +208,7 @@
           background: #fff;
         }
         .rank_nav li a {
-            margin: 0px;
+            margin: 0;
             padding: 16px 17px;
             font-size: 17px;
         }
@@ -217,7 +217,7 @@
             width: 73%;
             float: right;
             margin: 21px 0;
-            padding: 0px 0px 0px 10px;
+            padding: 0 0 0 10px;
             overflow: hidden;
             font-size: 21px;
         }
@@ -279,11 +279,11 @@
         }
 
         .footer_logo {
-            padding: 19px 0px;
+            padding: 19px 0;
             margin: 0 23%;
         }
         .footer_nav ul li a {
-            padding: 0px 4px;
+            padding: 0 4px;
             color: #000;
             font-size: 13px;
         }
@@ -351,7 +351,7 @@
           background: #fff;
         }
         .rank_nav li a {
-            margin: 0px;
+            margin: 0;
             padding: 12px 15px;
             font-size: 13px;
         }
