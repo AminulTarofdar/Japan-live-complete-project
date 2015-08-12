@@ -288,7 +288,7 @@ body{
 /*header top style*/
 
 #header_top{
-  padding-bottom: 24px;
+ padding-bottom: 11px;
 }
 .top_bar {
   background: none repeat scroll 0 0 #000;
@@ -366,7 +366,7 @@ body{
 /*header or header middle style*/
 
 .header{
-  padding: 15px 0;
+ padding: 40px 0 40px 0;
 }
 #logo{
   overflow: hidden;
@@ -392,7 +392,7 @@ input.search-form{
   background: transparent;
   border: 1px solid #C8B191;
   width: 60px;
-  padding: 10 10px;
+  padding: 10px 10px;
   color: #000;
   -webkit-transition: all 400ms;
   -moz-transition: all 400ms;
@@ -414,9 +414,7 @@ input.search-form:hover {
   border-radius: 6px 0 0 6px;
 }
 
-.top_search{
 
-}
 .top_search_input{
   padding: 10px;
 }
@@ -710,7 +708,7 @@ padding: 50px 0;
   border-right: none;
 }
 .footer_nav ul li a{
-    padding: 0px 4px;
+    padding: 0 4px;
     color: #000;
     font-size: 13px;
 }
