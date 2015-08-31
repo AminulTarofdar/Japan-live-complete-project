@@ -288,7 +288,7 @@ body{
 /*header top style*/
 
 #header_top{
- padding-bottom: 11px;
+ padding-bottom: 15px;
 }
 .top_bar {
   background: none repeat scroll 0 0 #000;
@@ -366,7 +366,7 @@ body{
 /*header or header middle style*/
 
 .header{
- padding: 40px 0 40px 0;
+ padding: 35px 0 35px 0;
 }
 #logo{
   overflow: hidden;
@@ -725,17 +725,20 @@ padding: 50px 0;
   background: #ddd;
 }
 .bottom_nav li a{
-  padding: 15px 8px;
+  font-size: 15px;
+  padding: 14px 15px;
 }
-
-.social_icons ul>li>a>i:hover{
+.bottom_nav li a:hover{
+  border-radius: 0;
+}
+.bottom_nav>li>a>i{
+  padding: 3px;
+}
+.bottom_nav>li>a>i:hover{
   background-color: #EEEEEE;
 }
-.like_btn, .copyright{
-  
-}
 .copyright{
-  padding-top: 14px;
+  padding-top: 16px;
 }
 
 

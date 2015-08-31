@@ -93,6 +93,14 @@
 
 
 
+        /*fooer copyright*/
+
+        .copyright{
+            padding-top: 33px;
+        }
+
+
+
 
     }
 
@@ -103,6 +111,18 @@
             text-align: center;
             padding-left: 40%;
         }
+
+        .header {
+            padding: 40px 0 39px 0
+        }
+        .nav_bar{
+            min-height: 0;
+        }
+        .navbar-header{
+           margin-top: -79px;
+          padding-bottom: 32px;
+        }
+        
         .main_menu li a{
         font-size: 12px;
         padding: 13px 11px;
@@ -142,6 +162,12 @@
         .footer_logo {
             padding: 19px 0;
             margin: 0 36%;
+        }
+
+        /*footer copyright*/
+
+        .copyright{
+            padding-top: 30px;
         }
 
         /*article page*/
@@ -240,6 +266,14 @@
             text-align: center;
             padding-left: 26%;
          }
+        .header {
+            padding: 40px 0 38px 0;
+        }
+        .navbar-header{
+          margin-top: -25px;
+            padding: 0 35%;
+        }
+
         .main_menu li a{
         font-size: 14px;
         padding:13px 33px;
